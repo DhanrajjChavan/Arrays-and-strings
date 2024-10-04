@@ -14,6 +14,6 @@ int main()
 }
 
 /*
-Enter a string: Sohamjade
-edajmahoS
+Enter a string: Dhanraj
+jarnahD
 */
